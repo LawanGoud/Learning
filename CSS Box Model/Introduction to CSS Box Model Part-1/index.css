@@ -1,0 +1,13 @@
+/* Setting height, width, and background properties */
+.hero {
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  background-image: url("https://res.cloudinary.com/db3erodfw/image/upload/v1722971878/Not_Found_eymqkz_j1nxuy.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(6, 5, 5);
+  font-size: 2rem;
+}
