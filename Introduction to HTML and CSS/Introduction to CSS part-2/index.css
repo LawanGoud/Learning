@@ -1,0 +1,18 @@
+/* Setting text color */
+.title {
+  color: #4a90e2; /* Blue color */
+}
+
+/* Setting text and background color */
+.text {
+  color: #ffffff; /* White text */
+  background-color: #333333; /* Dark grey background */
+  padding: 10px;
+}
+
+/* Setting background color for the div container */
+.highlight {
+  background-color: #f0f8ff; /* Light blue background */
+  padding: 20px;
+  border-radius: 8px;
+}
