@@ -1,0 +1,10 @@
+/* Applying box properties */
+.box {
+  background-color: #f9f9f9; /* Light background */
+  border: 2px solid #3498db; /* Blue solid border */
+  border-radius: 8px; /* Slightly rounded corners */
+  padding: 20px; /* Inner space within the box */
+  color: #333; /* Dark text color */
+  width: 300px; /* Fixed width */
+  margin: 20px auto; /* Centered on the page */
+}
