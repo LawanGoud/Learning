@@ -1,0 +1,22 @@
+/* Setting font family, size, and color for titles */
+.title {
+  font-family: "Georgia", serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Setting font size and font-style for text */
+.text {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  color: #333;
+  font-style: normal;
+}
+
+/* Styling for emphasized text */
+.highlight {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 1.2rem;
+}
